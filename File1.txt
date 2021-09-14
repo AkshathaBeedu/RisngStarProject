@@ -1,2 +1,3 @@
 Welcome rising star...!!!
- Time to change defect 1
+ Time to change defect 1.
+change to fix bug2
