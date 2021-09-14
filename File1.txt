@@ -6,3 +6,5 @@ change:by teammate for wt3 on master.
  Time to change defect 1.
 change to fix bug2
 
+change:by teammate to check rebase
+
