@@ -1,11 +1,18 @@
 Welcome rising star...!!!
 
  Time to change defect 1.
-change 1:by teammate for wt3 on master.
+
+change 1:-by teammate for wt3 on master.
+
+.
 
  Time to change defect 1.
 change to fix bug2
 
-change 2:by teammate to check rebase
-change 3: for CR2 on remote master by team mate with conflict.
+
+change 2:-by teammate to check rebase
+change 3:- for CR2 on remote master by team mate with conflict.
+
+
+change 4:-for bug3 on local master to verify rebase
 
