@@ -1,3 +1,8 @@
 Welcome rising star...!!!
- Time to change :defect 1
-change:by teammate for wt2 on master.
+
+ Time to change defect 1.
+change:by teammate for wt3 on master.
+
+ Time to change defect 1.
+change to fix bug2
+
